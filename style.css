@@ -42,22 +42,14 @@ a{background:tomato; color:whitesmoke;
         color: white;
         font-weight: 700;
     }
-    .dream-area{
-        background-image: url("images/dream-bg.png");
-        background-repeat: no-repeat;
-        background-position: right;
-    }
+    
     .single-experience{
         box-shadow: 10px 10px 40px gray;
         border-radius: 5px;
         height: 80%;
         background-color: white;
     }
-    .experience-area{
-        background-image: url("images/exp-bg.png");
-        background-repeat: no-repeat;
-        background-position: left;
-    }
+    
     #full-stack{
         border-left: 7px;
         
@@ -99,6 +91,14 @@ a{background:tomato; color:whitesmoke;
             text-align: center;
             text-decoration: black;
         }
+        .group-img{
+            background-image: url("shapes/Group_33094_1.png");
+            background-repeat: no-repeat;
+            background-position: center;
+            width: 50%;
+            margin-left: 25%;
+            padding-left: 5%;
+
         
         footer p{
             text-align: center;
